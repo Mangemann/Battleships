@@ -21,6 +21,9 @@ function calculateMaxScore(mapToCheck, length, width){
 
     }
 
+
+    //här hamnar en annan kommentar
+
     /* 
     Räknar ut ett värde på spelplanen beroende på storlek
     och hur många båtar som är utplacerade. Detta ska göras direkt efter alla båtar

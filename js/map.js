@@ -3,7 +3,7 @@
  * I den här filen har vi lite hjälpfunktioner för att hantera kartan åt oss.
  * 
  */
-
+//YEEEEEEEEEEEEEEEEEEEEEEEEEEEBOI
 /*
  * buildMap
  *
@@ -228,6 +228,7 @@ function placeShips(){
 }
 
 function aiPlaceShips(){
+    //Den här funktionen behövs kanske inte, för hela projektet är överkurs :thinking:
     console.log ("aiPlaceShips is working")
 
     while (destroyerCounter == 1){
