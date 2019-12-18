@@ -130,7 +130,7 @@ function playerEasyAI(){
 $(".aisquare").click(shoot);
 //$(button).click(getCoords);
 
-
+//jag känner inte dig
 
 /*
  * Någon skjuter på en ruta.
