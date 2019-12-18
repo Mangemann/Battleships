@@ -1,0 +1,5 @@
+för att kunna fixa så att man inte kan placera ut en båt på en position som redan är upptagen
+behövs en forloop som pushar in coordinaterna i rätt array, sedan if-sats som kollar om positionen är upptagen
+
+i detta fall måste placeships ändras, möjligtvis att vi skapar en funktion som kollar om båtarrayerna
+innehåller en koordinat för enkelhetens skull
